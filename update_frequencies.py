@@ -16,8 +16,8 @@ def main():
         
         # 定义分类逻辑
         targets = {
-            'languages': ['Chinese', 'English', 'Japanese'],
-            'countries': ['China', 'USA', 'Japan']
+            'languages': ['Chinese', 'English', 'Japanese','Korean','Thai'],
+            'countries': ['China', 'USA', 'Japan','Shouth Korea','North Korea','UK']
         }
 
         # Markdown 表格的表头
