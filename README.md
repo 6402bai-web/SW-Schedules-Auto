@@ -6,12 +6,10 @@
 
 | 分类 | 快速链接 |
 | :--- | :--- |
-| **中文广播** | (languages/chinese.md) |
-| **英文广播** | (languages/english.md) |
-| **中国电台** | (countries/china.md) |
-| **美国电台** | (countries/usa.md) |
+| **中文广播** | [点击查看中文频率表](languages/chinese.md) |
+| **英文广播** | [点击查看英文频率表](languages/english.md) |
+| **中国电台** | [点击查看中国境内电台](countries/china.md) |
+| **美国电台** | [点击查看美国电台](countries/usa.md) |
 
 ---
 *数据来源：EiBi Space. 自动更新由 GitHub Actions 提供支持。*
-# SW-Schedules-Auto
-Automatically organized shortwave frequency database by country and language.
