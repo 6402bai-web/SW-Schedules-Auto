@@ -6,9 +6,9 @@
 
 | 分类 | 快速链接 |
 | :--- | :--- |
-| **中文广播** | [点击查看中文频率表](languages/chinese.csv) |
-| **英文广播** | [点击查看英文频率表](languages/english.csv) |
-| **中国电台** | [点击查看中国境内电台](countries/china.csv) |
+| **中文广播** | [点击查看中文频率表](languages/chinese.md) |
+| **英文广播** | [点击查看英文频率表](languages/english.md) |
+| **中国电台** | [点击查看中国境内电台](countries/china.md) |
 | **美国电台** | [点击查看美国电台](countries/usa.csv) |
 
 ---
