@@ -1,0 +1,32 @@
+name: Global Shortwave Auto Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天北京时间 08:00 运行
+  workflow_dispatch:      # 允许你点击按钮手动运行
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install pandas requests
+
+      - name: Run update script
+        run: python update_frequencies.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git commit -m "Auto-update: $(date +'%Y-%m-%d')" || exit 0
+          git push
