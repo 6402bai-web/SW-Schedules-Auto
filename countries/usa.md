@@ -1,8 +1,8 @@
 ﻿# 📡 USA 频率汇总表
 
-> 最后更新时间：2026-03-29 01:29 UTC（UTC）
+> 最后更新时间：2026-03-30 01:30 UTC（UTC）
 
-共收录 **747** 条频率记录。
+共收录 **749** 条频率记录。
 
 | 频率 (kHz) | 时间 (UTC) | 电台名称 | 语言 | 目标区域 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -102,6 +102,7 @@
 | 5085 | 0200-0400 | WTWW Lebanon, TN | E | NAm |
 | 5085 | 0400-0430 | WTWW Lebanon, TN | E | NAm |
 | 5085 | 0400-0700 | WTWW Lebanon, TN | E | NAm |
+| 5085 | 2200-2300 | WTWW Lebanon, TN | E | NAm |
 | 5130 | 0000-0100 | WBCQ The Planet | E | NAm |
 | 5130 | 0000-0500 | WBCQ The Planet | E | NAm |
 | 5130 | 0200-0300 | WBCQ The Planet | E | NAm |
@@ -154,6 +155,7 @@
 | 6110 | 1600-1630 | Furusato no Kaze | J | KRE |
 | 6110 | 1700-1730 | Furusato no Kaze | J | KRE |
 | 6155 | 1700-1730 | Furusato no Kaze | J | KRE |
+| 6160 | 0000-0100 | WBCQ The Planet | E | NAm |
 | 6160 | 0000-0100 | WBCQ The Planet | E | NAm |
 | 6160 | 0000-2400 | WBCQ The Planet | E | NAm |
 | 6160 | 0100-0200 | WBCQ The Planet | E | NAm |
@@ -379,7 +381,6 @@
 | 9455 | 0130-0200 | Radio Prague | E | CAm |
 | 9455 | 2230-2245 | Radio Free Asia | M | FE |
 | 9455 | 2300-0400 | WRMI Radio Miami Int. | E | CAm |
-| 9470 | 1400-1430 | RBS V.o.Korean Revival | K | FE |
 | 9475 | 2000-2400 | WTWW Lebanon, TN | E | NAm |
 | 9515 | 1900-2000 | Radio Farda | FS | IRN |
 | 9515 | 1900-2030 | Radio Farda | FS | IRN |
@@ -499,7 +500,7 @@
 | 12010 | 1900-1930 | Follow the Bible Min. | E | SAf |
 | 12015 | 0000-2400 | NSS US Navy | -TY | NAm |
 | 12045 | 1330-1357 | Furusato no Kaze | J | KRE |
-| 12050 | 1400-0600 | WEWN EWTN Catholic R. | S | LAm |
+| 12050 | 1355-0600 | WEWN EWTN Catholic R. | S | LAm |
 | 12085 | 1500-1700 | Brother Stair | E | ME |
 | 12105 | 1200-1230 | Trans World R. DIGITAL | M | FE |
 | 12105 | 1200-1230 | Trans World Radio | M | FE |
@@ -657,6 +658,7 @@
 | 15770 | 0730-0800 | Radio Liberty | R | ENA |
 | 15770 | 0000-2400 | WRMI Radio Miami Int. | E | ENA |
 | 15770 | 0700-0730 | WRMI Radio Miami Int. | R | Eu |
+| 15770 | 2000-2030 | WRMI Radio Miami Int. | R | Eu |
 | 15959 | 0000-2400 | NSS US Navy | -TY | NAm |
 | 17016.8 | 1700-2400 | MRHS KPH Bolinas, CA | -CW | WNA |
 | 17016.8 | 1800-0100 | MRHS KPH Bolinas, CA | -CW | WNA |

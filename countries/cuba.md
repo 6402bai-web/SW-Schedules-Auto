@@ -1,8 +1,8 @@
 ﻿# 📡 Cuba 频率汇总表
 
-> 最后更新时间：2026-03-29 01:29 UTC（UTC）
+> 最后更新时间：2026-03-30 01:30 UTC（UTC）
 
-共收录 **63** 条频率记录。
+共收录 **65** 条频率记录。
 
 | 频率 (kHz) | 时间 (UTC) | 电台名称 | 语言 | 目标区域 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -14,12 +14,13 @@
 | 6000 | 1400-1600 | Radio Habana Cuba | S | CNA |
 | 6000 | 2300-2400 | Radio Habana Cuba | S | ENA |
 | 9650 | 2300-2400 | Radio Habana Cuba | S | Car |
-| 9710 | 0100-0300 | Radio Habana Cuba | E | ENA |
+| 9710 | 0100-0700 | Radio Habana Cuba | E | ENA |
 | 9710 | 0300-0400 | Radio Habana Cuba | P | ENA |
 | 9710 | 0400-0500 | Radio Habana Cuba | E | ENA |
 | 9710 | 0500-0530 | Radio Habana Cuba | F | ENA |
 | 9710 | 0530-0600 | Radio Habana Cuba | CR | ENA |
-| 9710 | 0700-0800 | Radio Habana Cuba | E | ENA |
+| 9710 | 0530-0600 | Radio Habana Cuba | P | ENA |
+| 9710 | 0600-0800 | Radio Habana Cuba | S | ENA |
 | 9710 | 1200-1400 | Radio Habana Cuba | S | Car |
 | 9710 | 1300-1400 | Radio Habana Cuba | S | Car |
 | 9710 | 1400-1500 | Radio Habana Cuba | S | Car |
@@ -28,6 +29,7 @@
 | 11760 | 0100-0700 | Radio Habana Cuba | E | Am |
 | 11760 | 1200-1400 | Radio Habana Cuba | S | Am |
 | 11760 | 1400-1600 | Radio Habana Cuba | S | Am |
+| 11760 | 1600-1630 | Radio Habana Cuba | EO | Am |
 | 11760 | 1600-1900 | Radio Habana Cuba | S | Am |
 | 11760 | 1900-1930 | Radio Habana Cuba | F | Am |
 | 11760 | 1930-2000 | Radio Habana Cuba | CR | Am |

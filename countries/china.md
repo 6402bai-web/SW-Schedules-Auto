@@ -1,8 +1,8 @@
 ﻿# 📡 China 频率汇总表
 
-> 最后更新时间：2026-03-29 01:29 UTC（UTC）
+> 最后更新时间：2026-03-30 01:30 UTC（UTC）
 
-共收录 **1289** 条频率记录。
+共收录 **1290** 条频率记录。
 
 | 频率 (kHz) | 时间 (UTC) | 电台名称 | 语言 | 目标区域 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -154,6 +154,7 @@
 | 5955 | 1300-1400 | China Radio Int. | E | FE |
 | 5955 | 1400-1500 | China Radio Int. | E | FE |
 | 5955 | 1500-1600 | China Radio Int. | E | FE |
+| 5960 | 0000-0105 | China Radio Int. | E | Car |
 | 5965 | 1000-1805 | China National Radio 1 | M | CHN |
 | 5965 | 0900-1000 | China Radio Int. | M | FE |
 | 5965 | 1000-1100 | China Radio Int. | M | FE |
